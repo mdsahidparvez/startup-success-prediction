@@ -9,7 +9,8 @@ Predicts if startups succeed (acquired) or fail (closed) using ML models.
 - Md Sahid Parvez: Model Selection/Training, Model Evaluation, Prediction
 
 ## Dataset
-[Kaggle Startup Success Prediction](https://www.kaggle.com/datasets/manishkc06/startup-success-prediction)
+`startup_data.csv` (923 rows × 49 columns) - included in repository
+
 
 ## Features (49 total): agefirstfundingyear, relationships, fundingrounds, fundingtotalusd, milestones, hasVC, hasangel, avgparticipants, istop500, status (target)
 
